@@ -5,7 +5,7 @@ I'm a third-year Computer Science student at Sai University, India
 
 ### 🔗 Links:
 - Mail: [tanishtavarman@gmail.com](tanishta.varman@gmail.com)
-- Resume: [Tanishta's CV]()
+- Resume: [Tanishta's CV](https://drive.google.com/file/d/14eG0D_TW3ZVUSBvxnOzBNTpLwjUYvkl_/view?usp=sharing)
 - Linkedin: [Tanishta](https://www.linkedin.com/in/tanishtavarman/)
 
 ---

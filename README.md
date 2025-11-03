@@ -1,7 +1,7 @@
 # Hi, I'm Tanishta 
 
 ### About Me:
-I'm a third-year Computer Science student at Sai University, India
+I'm a Fourth-year Computer Science student at Sai University, India
 
 ### 🔗 Links:
 - Mail: [tanishtavarman@gmail.com](tanishta.varman@gmail.com)
